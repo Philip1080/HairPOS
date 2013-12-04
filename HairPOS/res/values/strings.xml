@@ -4,5 +4,7 @@
     <string name="app_name">HairPOS</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="title_activity_hairstyling_scrn">HairstylingScrn</string>
+    <string name="title_activity_aesthetics">Aesthetics</string>
 
 </resources>

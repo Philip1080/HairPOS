@@ -22,6 +22,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.techume.hairpos.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:windowSoftInputMode="adjustResize|stateVisible" >
+        </activity>
+        <activity
+            android:name="com.techume.hairpos.HairstylingScrn"
+            android:label="@string/title_activity_hairstyling_scrn" >
+        </activity>
+        <activity
+            android:name="com.techume.hairpos.Aesthetics"
+            android:label="@string/title_activity_aesthetics" >
+        </activity>
     </application>
 
 </manifest>
