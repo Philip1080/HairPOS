@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="90dp"
-        android:text="Hairstyling" />
+        android:text="@string/HairstylingMain" />
 
     <Button
         android:id="@+id/button2"
@@ -24,6 +24,6 @@
         android:layout_below="@+id/button1"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="78dp"
-        android:text="Nails&Aesthetics" />
+        android:text="@string/NailsAndAestheticsMain" />
 
 </RelativeLayout>

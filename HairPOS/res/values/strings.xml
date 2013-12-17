@@ -6,5 +6,12 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_hairstyling_scrn">HairstylingScrn</string>
     <string name="title_activity_aesthetics">Aesthetics</string>
+    <string name="NailsAesthetics">Nails &amp; Aesthetics</string>
+    <string name="Manicure">Manicure</string>
+    <string name="Hairstyling">Hairstyling</string>
+    <string name="Blowout">Blowout</string>
+    <string name="Haircut">Haircut</string>
+    <string name="HairstylingMain">Hairstyling</string>
+    <string name="NailsAndAestheticsMain">Nails &amp; Aesthetics</string>
 
 </resources>
